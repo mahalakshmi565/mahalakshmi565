@@ -22,9 +22,6 @@
 
 ## 📊 GitHub Stats
 
-- 🔥 **Total Contributions & Commit Activity**
-- ⚡ **GitHub Streaks**
-- ⭐ **Total Stars Earned**
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mahalakshmi565&theme=tokyonight&hide_border=false)
 
@@ -44,11 +41,16 @@
 
 ## 📬 Contact & Connect With Me
 
-- 🔗 **LinkedIn:**  
-  https://linkedin.com/in/mahalakshmi-l-197620333  
+## 📬 Contact & Connect With Me
+
+- 💼 **LinkedIn:**  
+  🔗 [linkedin.com/in/mahalakshmi-l-197620333](https://linkedin.com/in/mahalakshmi-l-197620333)
 
 - 📧 **Email:**  
-  mailto:mahalakshmil6505@gmail.com  
+  ✉️ [mahalakshmil6505@gmail.com](mailto:mahalakshmil6505@gmail.com)
+
+- 🐙 **GitHub:**  
+  🔗 [github.com/mahalakshmi565](https://github.com/mahalakshmi565)
 
 ---
 
