@@ -7,16 +7,21 @@
 
 ---
 
-## 🌱 Currently Learning
 
-🚀 **MERN Stack Development**  
-(MongoDB, Express.js, React.js, Node.js)
 
 ---
-
 ## 💻 Tech Stack
 
+### 🎨 Frontend
 - 🟧 **HTML5**
+- 🎨 **CSS3**
+
+### ⚙️ Backend
+- ☕ **Java**
+
+### 🗄️ Database
+- _Currently exploring_
+
 
 ---
 
