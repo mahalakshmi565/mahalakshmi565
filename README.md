@@ -1,3 +1,6 @@
+<h1 align="center">Hi, I'm Mahalakshmi 👋</h1>
+<h4 align="center">Final Year CSE Student</h4>
+
 # 💫 About Me
 
 👩‍💻 **Aspiring Full Stack Web Developer**  
