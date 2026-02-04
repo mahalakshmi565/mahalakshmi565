@@ -27,13 +27,12 @@
 
 
 ---
-
 ## 📊 GitHub Stats
 
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mahalakshmi565&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi565&theme=tokyonight)
 
 ---
+
 
 ## 🚀 Featured Project
 
