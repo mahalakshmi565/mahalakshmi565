@@ -41,24 +41,23 @@ Portable Edge E-nose with sensor fusion for disease prediction.
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js" />
+</p>
 
 ---
 
 ### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
 ---
 
 ### ⚙️ Backend & Tools
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,mysql,git,github,vscode" />
+</p>
 
 ---
 
