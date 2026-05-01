@@ -55,8 +55,7 @@ Edge-based system using sensor fusion for disease prediction.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi565&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mahalakshmi565&show_icons=true&theme=tokyonight&hide_border=true" />
+  
 </p>
 
 ---
