@@ -1,20 +1,22 @@
 <h1 align="center">Hi, I'm Mahalakshmi 👋</h1>
-<h4 align="center">Final Year CSE Student</h4>
+<h3 align="center">💻 Full Stack Developer | 🎓 Final Year CSE</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Spring+Boot+Developer;Always+Learning+New+Things;Building+Real+World+Projects" />
+</p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 👩‍💻 Aspiring Full Stack Web Developer  
 🎓 Final Year CSE Student  
 🏫 Sai Vidya Institute of Technology  
-💡 Passionate about building web applications and learning modern technologies  
+💡 Passionate about building modern web applications  
 
 ---
 
 ## 🌟 Featured Projects
-
-Here are some projects I’m proud of — focused on full-stack development:
 
 ---
 
@@ -23,16 +25,16 @@ Here are some projects I’m proud of — focused on full-stack development:
 
 A full-stack expense tracking web application with admin panel, user management, and access request system.
 
-> Java | Spring Boot | Thymeleaf | MySQL | Full-Stack Development
+> ⚙️ Java | Spring Boot | Thymeleaf | MySQL  
 
 ---
 
 ### 🧪 VOC-Based Multiple Disease Detection System  
 🔗 https://github.com/mahalakshmi565/Portable-Edge-E-nose-with-Sensor-fusion-for-VOC-based-Disease-Prediction  
 
-Portable Edge E-nose with sensor fusion for VOC-based disease prediction.
+Portable Edge E-nose with sensor fusion for disease prediction.
 
-> Sensor Fusion | Edge Computing | ML Concept
+> 🔬 Sensor Fusion | Edge Computing  
 
 ---
 
@@ -62,22 +64,26 @@ Portable Edge E-nose with sensor fusion for VOC-based disease prediction.
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi565&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi565&theme=tokyonight" />
+</p>
 
 ---
 
-## 📬 Contact & Connect With Me
+## 📬 Connect With Me
 
-- 💼 LinkedIn  
-  🔗 https://linkedin.com/in/mahalakshmi-l-197620333  
-
-- 📧 Email  
-  ✉️ mahalakshmil6505@gmail.com  
-
-- 🐙 GitHub  
-  🔗 https://github.com/mahalakshmi565  
+<p align="center">
+  <a href="https://linkedin.com/in/mahalakshmi-l-197620333">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:mahalakshmil6505@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/mahalakshmi565">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-✨ Thank you for visiting my GitHub profile!  
-🤝 Let’s connect, collaborate, and grow together 🚀
+✨ *“Code. Learn. Build. Repeat.”* 🚀
