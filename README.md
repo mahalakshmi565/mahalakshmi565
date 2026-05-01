@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mahalakshmi 👋</h1>
 
 <p align="center">
-  💻 Full Stack Developer • 🎓 Computer Science Engineer
+  💻 Full Stack Developer • 🎓 Final Year CSE
 </p>
 
 <p align="center">
@@ -12,30 +12,35 @@
 
 ## ✨ About Me
 
-- 👩‍💻 Full Stack Developer focused on backend systems  
-- 🎓 Computer Science student  
-- 💡 Interested in building scalable applications  
-- 🚀 Improving problem-solving & communication  
+- 👩‍💻 Aspiring Full Stack Developer  
+- 🎓 Final Year Computer Science Student  
+- 💡 Passionate about building modern, scalable applications  
+- 🚀 Currently improving problem-solving & communication skills  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 💰 SmartExpense Tracker  
-🔗 [View Project](https://github.com/mahalakshmi565/smartexpense-tracker)
+🔗 https://github.com/mahalakshmi565/smartexpense-tracker  
 
-Full-stack expense tracking application with authentication, admin panel, and user management.
+A full-stack expense tracking application with authentication, admin panel, and user management system.
 
-**Tech Stack:** Java • Spring Boot • MySQL  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+</p>
 
 ---
 
 ### 🧪 VOC-Based Disease Detection System  
-🔗 [View Project](https://github.com/mahalakshmi565/Portable-Edge-E-nose-with-Sensor-fusion-for-VOC-based-Disease-Prediction)
+🔗 https://github.com/mahalakshmi565/Portable-Edge-E-nose-with-Sensor-fusion-for-VOC-based-Disease-Prediction  
 
-Edge-based system using sensor fusion for disease prediction.
+Portable edge-based system using sensor fusion for disease prediction.
 
-**Tech Stack:** Edge Computing • Sensor Fusion  
+<p>
+  <img src="https://img.shields.io/badge/Edge%20Computing-6C63FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Sensor%20Fusion-6C63FF?style=flat-square"/>
+</p>
 
 ---
 
@@ -57,7 +62,7 @@ Edge-based system using sensor fusion for disease prediction.
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/mahalakshmi-l-197620333">
@@ -78,5 +83,5 @@ Edge-based system using sensor fusion for disease prediction.
 </p>
 
 <p align="center">
-  <i>Code • Learn • Build</i>
+  <i>Code • Learn • Build • Repeat</i>
 </p>
