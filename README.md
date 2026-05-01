@@ -78,5 +78,5 @@ Edge-based system using sensor fusion for disease prediction.
 </p>
 
 <p align="center">
-  <i>Code • Learn • Build • Restart • Reuild • Retry </i>
+  <i>Code • Learn • Build • Restart • Rebuild • Retry </i>
 </p>
