@@ -3,43 +3,16 @@
 
 # 💫 About Me
 
-👩‍💻 **Aspiring Full Stack Web Developer**  
+👩‍💻 **Aspiring Java Full Stack Developer**  
 🎓 **Final Year CSE Student**  
 🏫 **Sai Vidya Institute of Technology**  
-💡 Passionate about building web applications and learning modern web technologies  
+💡 Passionate about building full-stack web applications and learning modern technologies  
 
 ---
 
+# 🚀 Featured Projects
 
-
----
-## 💻 Tech Stack
-
-### 🎨 Frontend
-- 🟧 **HTML5**
-- 🎨 **CSS3**
-
-### ⚙️ Backend
-- ☕ **Java**
-
-### 🗄️ Database
-- _Currently exploring_
-
-
----
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi565&theme=tokyonight)
-
----
-
-
----
-
-
-## 🚀 Featured Project
-
-### 🧪 VOC-Based Multiple Disease Detection System  
+## 🧪 VOC-Based Multiple Disease Detection System  
 🔬 **Portable Edge E-nose with Sensor Fusion for VOC-based Disease Prediction**
 
 👉 **Repository Link:**  
@@ -49,7 +22,64 @@
 
 ---
 
+## 🏋️ Virtual Fitness Assistant  
+🤖 **AI-Based Human Pose Estimation Fitness System**
 
+👉 **Repository Link:**  
+🔗 [Click here to view the project](YOUR_GITHUB_PROJECT_LINK)
+
+📌 Developed an AI-powered virtual fitness assistant using MediaPipe and OpenCV for real-time exercise posture detection and feedback.
+
+---
+
+## 💻 Tech Stack
+
+### 🎨 Frontend
+- 🟧 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- ⚛️ React.js
+- 🎀 Bootstrap
+
+### ⚙️ Backend
+- ☕ Java
+- 🌱 Spring Boot
+- 🔗 JDBC
+- 🛠️ Hibernate
+- 🟢 Node.js
+
+### 🗄️ Database
+- 🐬 MySQL
+- 🍃 MongoDB
+
+### 🧰 Tools & Platforms
+- 🐙 Git & GitHub
+- 💻 VS Code
+- 🧪 Postman
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi565&theme=tokyonight)
+
+---
+
+## 💼 Experience
+
+### 🏢 Anudip Foundation  
+**Java Full Stack Developer Intern** | Jan 2026 – Present
+
+- Working on full-stack web application development using Java, Spring Boot, Hibernate, MySQL, HTML, CSS, JavaScript, and React.js.
+- Developing backend APIs, database integration, and responsive frontend interfaces.
+
+### 🏢 TNSIF  
+**Java Full Stack Developer Trainee** | Dec 2025 – Mar 2026
+
+- Completed training in Java Full Stack Development covering Java, Spring Boot, Hibernate, JDBC, MySQL, HTML, CSS, JavaScript, and React.js.
+- Built full-stack applications with frontend, backend, and database integration.
+
+---
 
 ## 📬 Contact & Connect With Me
 
