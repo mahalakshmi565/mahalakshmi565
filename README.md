@@ -1,54 +1,62 @@
 <h1 align="center">Hi, I'm Mahalakshmi 👋</h1>
 <h4 align="center">Final Year CSE Student</h4>
 
+---
+
 # 💫 About Me
 
-👩‍💻 **Aspiring Full Stack Web Developer**  
-🎓 **Final Year CSE Student**  
-🏫 **Sai Vidya Institute of Technology**  
-💡 Passionate about building web applications and learning modern web technologies  
+👩‍💻 Aspiring Full Stack Web Developer  
+🎓 Final Year CSE Student  
+🏫 Sai Vidya Institute of Technology  
+💡 Passionate about building web applications and learning modern technologies  
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-### 💰 SmartExpense Tracker (NEW 🔥)
-📊 **Full Stack Expense Tracking Web Application**
+Here are some projects I’m proud of — focused on full-stack development:
 
-👉 **Repository Link:**  
+---
+
+### 💰 SmartExpense Tracker  
 🔗 https://github.com/mahalakshmi565/smartexpense-tracker  
 
-📌 Features:
-- Admin Dashboard
-- User Management
-- Access Request System
-- Notifications with Badge Count
-- Expense Tracking UI
-- Clean & Modern UI Design
+A full-stack expense tracking web application with admin panel, user management, and access request system.
+
+> Java | Spring Boot | Thymeleaf | MySQL | Full-Stack Development
 
 ---
 
 ### 🧪 VOC-Based Multiple Disease Detection System  
-🔬 **Portable Edge E-nose with Sensor Fusion for VOC-based Disease Prediction**
-
-👉 **Repository Link:**  
 🔗 https://github.com/mahalakshmi565/Portable-Edge-E-nose-with-Sensor-fusion-for-VOC-based-Disease-Prediction  
 
-📌 This project focuses on disease prediction using VOC analysis with sensor fusion and edge computing techniques.
+Portable Edge E-nose with sensor fusion for VOC-based disease prediction.
+
+> Sensor Fusion | Edge Computing | ML Concept
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+---
 
 ### 🎨 Frontend
-- 🟧 HTML5
-- 🎨 CSS3
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
-### ⚙️ Backend
-- ☕ Java (Spring Boot)
+---
 
-### 🗄️ Database
-- _Currently exploring_
+### ⚙️ Backend & Tools
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
@@ -71,5 +79,5 @@
 
 ---
 
-✨ **Thank you for visiting my GitHub profile!**  
-🤝 **Let’s connect, collaborate, and grow together 🚀**
+✨ Thank you for visiting my GitHub profile!  
+🤝 Let’s connect, collaborate, and grow together 🚀
