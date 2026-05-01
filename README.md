@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mahalakshmi 👋</h1>
 
 <p align="center">
-  💻 Full Stack Developer • 🎓 Final Year CSE
+  💻 Full Stack Developer • 🎓 Computer Science Engineer
 </p>
 
 <p align="center">
@@ -12,35 +12,30 @@
 
 ## ✨ About Me
 
-- 👩‍💻 Aspiring Full Stack Developer  
-- 🎓 Final Year Computer Science Student  
-- 💡 Passionate about building modern, scalable applications  
-- 🚀 Currently improving problem-solving & communication skills  
+- 👩‍💻 Full Stack Developer focused on backend systems  
+- 🎓 Computer Science student  
+- 💡 Interested in building scalable applications  
+- 🚀 Improving problem-solving & communication  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 💰 SmartExpense Tracker  
-🔗 https://github.com/mahalakshmi565/smartexpense-tracker  
+🔗 [View Project](https://github.com/mahalakshmi565/smartexpense-tracker)
 
-A full-stack expense tracking application with authentication, admin panel, and user management system.
+Full-stack expense tracking application with authentication, admin panel, and user management.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
-</p>
+**Tech Stack:** Java • Spring Boot • MySQL  
 
 ---
 
 ### 🧪 VOC-Based Disease Detection System  
-🔗 https://github.com/mahalakshmi565/Portable-Edge-E-nose-with-Sensor-fusion-for-VOC-based-Disease-Prediction  
+🔗 [View Project](https://github.com/mahalakshmi565/Portable-Edge-E-nose-with-Sensor-fusion-for-VOC-based-Disease-Prediction)
 
-Portable edge-based system using sensor fusion for disease prediction.
+Edge-based system using sensor fusion for disease prediction.
 
-<p>
-  <img src="https://img.shields.io/badge/Edge%20Computing-6C63FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Sensor%20Fusion-6C63FF?style=flat-square"/>
-</p>
+**Tech Stack:** Edge Computing • Sensor Fusion  
 
 ---
 
@@ -62,7 +57,7 @@ Portable edge-based system using sensor fusion for disease prediction.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/mahalakshmi-l-197620333">
@@ -83,5 +78,5 @@ Portable edge-based system using sensor fusion for disease prediction.
 </p>
 
 <p align="center">
-  <i>Code • Learn • Build • Repeat</i>
+  <i>Code • Learn • Build</i>
 </p>
