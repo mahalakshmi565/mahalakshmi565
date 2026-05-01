@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&lines=Full+Stack+Developer;Spring+Boot+Developer;Building+Real+World+Projects;Always+Learning" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahalakshmi565&color=6C63FF&style=flat-square" />
+</p>
+
 ---
 
 ## ✨ About Me
@@ -76,10 +80,7 @@ Edge-based system using sensor fusion for disease prediction.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahalakshmi565&label=Profile%20views&color=6C63FF&style=flat" />
-</p>
 
 <p align="center">
-  <i>Code • Learn • Build • Restart • Rebuild • Retry </i>
+  <i>Code • Learn • Build • Restart • Rebuild • Retry</i>
 </p>
