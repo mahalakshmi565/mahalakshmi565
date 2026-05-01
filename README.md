@@ -1,62 +1,48 @@
 <h1 align="center">Hi, I'm Mahalakshmi 👋</h1>
-<h3 align="center">💻 Full Stack Developer | 🎓 Final Year CSE</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Spring+Boot+Developer;Always+Learning+New+Things;Building+Real+World+Projects" />
+  💻 Full Stack Developer • 🎓 Computer Science Engineer
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&lines=Full+Stack+Developer;Spring+Boot+Developer;Building+Real+World+Projects;Always+Learning" />
 </p>
 
 ---
 
-## 💫 About Me
+## ✨ About Me
 
-👩‍💻 Aspiring Full Stack Web Developer  
-🎓 Final Year CSE Student  
-🏫 Sai Vidya Institute of Technology  
-💡 Passionate about building modern web applications  
-
----
-
-## 🌟 Featured Projects
+- 👩‍💻 Full Stack Developer focused on backend systems  
+- 🎓 Computer Science student  
+- 💡 Interested in building scalable applications  
+- 🚀 Improving problem-solving & communication  
 
 ---
+
+## 🚀 Projects
 
 ### 💰 SmartExpense Tracker  
-🔗 https://github.com/mahalakshmi565/smartexpense-tracker  
+🔗 [View Project](https://github.com/mahalakshmi565/smartexpense-tracker)
 
-A full-stack expense tracking web application with admin panel, user management, and access request system.
+Full-stack expense tracking application with authentication, admin panel, and user management.
 
-> ⚙️ Java | Spring Boot | Thymeleaf | MySQL  
+**Tech Stack:** Java • Spring Boot • MySQL  
 
 ---
 
-### 🧪 VOC-Based Multiple Disease Detection System  
-🔗 https://github.com/mahalakshmi565/Portable-Edge-E-nose-with-Sensor-fusion-for-VOC-based-Disease-Prediction  
+### 🧪 VOC-Based Disease Detection System  
+🔗 [View Project](https://github.com/mahalakshmi565/Portable-Edge-E-nose-with-Sensor-fusion-for-VOC-based-Disease-Prediction)
 
-Portable Edge E-nose with sensor fusion for disease prediction.
+Edge-based system using sensor fusion for disease prediction.
 
-> 🔬 Sensor Fusion | Edge Computing  
+**Tech Stack:** Edge Computing • Sensor Fusion  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js" />
-</p>
-
----
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
----
-
-### ⚙️ Backend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,mysql,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,spring,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -64,25 +50,33 @@ Portable Edge E-nose with sensor fusion for disease prediction.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi565&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi565&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahalakshmi565&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📬 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/mahalakshmi-l-197620333">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mahalakshmil6505@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/mahalakshmi565">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-✨ *“Code. Learn. Build. Repeat.”* 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <i>Code • Learn • Build</i>
+</p>
