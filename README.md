@@ -82,10 +82,8 @@ Daily learning repository containing
 
 </p>
 
----
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=mahalakshmi565&theme=tokyonight&hide_border=true"/>
-</p>
+## 📊 GitHub Statistics
+
 <p align="center">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahalakshmi565&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahalakshmi565&layout=compact&theme=tokyonight&hide_border=true"/>
