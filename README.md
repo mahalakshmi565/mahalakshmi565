@@ -1,85 +1,149 @@
-<h1 align="center">Hi, I'm Mahalakshmi 👋</h1>
+<h1 align="center">Hi 👋, I'm Mahalakshmi L</h1>
+
+<h3 align="center">
+💻 Aspiring Java Full Stack Developer | 🚀 Passionate Learner | 🌱 Building Real-World Projects
+</h3>
 
 <p align="center">
-  💻 Full Stack Developer • 🎓 Computer Science Engineer
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Aspiring+Java+Full+Stack+Developer;Spring+Boot+Developer;Building+Real-World+Projects;Learning+Something+New+Every+Day" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&lines=Full+Stack+Developer;Spring+Boot+Developer;Building+Real+World+Projects;Always+Learning" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahalakshmi565&color=6C63FF&style=flat-square" />
-</p>
-
----
-
-## ✨ About Me
-
-- 👩‍💻 Full Stack Developer focused on backend systems  
-- 🎓 Computer Science student  
-- 💡 Interested in building scalable applications  
-- 🚀 Improving problem-solving & communication  
-
----
-
-## 🚀 Projects
-
-### 💰 SmartExpense Tracker  
-🔗 [View Project](https://github.com/mahalakshmi565/smartexpense-tracker)
-
-Full-stack expense tracking application with authentication, admin panel, and user management.
-
-**Tech Stack:** Java • Spring Boot • MySQL  
-
----
-
-### 🧪 VOC-Based Disease Detection System  
-🔗 [View Project](https://github.com/mahalakshmi565/Portable-Edge-E-nose-with-Sensor-fusion-for-VOC-based-Disease-Prediction)
-
-Edge-based system using sensor fusion for disease prediction.
-
-**Tech Stack:** Edge Computing • Sensor Fusion  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,spring,mysql,git,github,vscode" />
+  <img src="https://komarev.com/ghpvc/?username=mahalakshmi565&label=Profile+Views&color=6C63FF&style=flat-square"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 👩‍💻 About Me
+
+- 🎓 Computer Science Engineering Graduate
+- 💻 Aspiring Java Full Stack Developer
+- 🌱 Currently strengthening **Java, Spring Boot, SQL & Data Structures**
+- 📚 Documenting my learning journey through hands-on coding
+- 🚀 Passionate about building scalable backend applications
+- 🎯 Preparing for Software Development roles
+- ⚡ Fun Fact: *Consistency beats perfection.*
+
+---
+
+# 🚀 Featured Projects
+
+### 💰 SmartExpense Tracker
+
+🔗 https://github.com/mahalakshmi565/smartexpense-tracker
+
+Java Spring Boot application with authentication, expense tracking, budgeting, reminders and admin panel.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `MySQL` `Thymeleaf`
+
+---
+
+### 🧪 VOC-Based Disease Detection System
+
+🔗 https://github.com/mahalakshmi565/Portable-Edge-E-nose-with-Sensor-fusion-for-VOC-based-Disease-Prediction
+
+Edge Computing based disease prediction system using sensor fusion.
+
+---
+
+### 📚 Learning Repository
+
+🔗 https://github.com/mahalakshmi565/Learning
+
+Daily learning repository containing
+
+- HTML
+- CSS
+- JavaScript
+- Java
+- SQL
+- Data Structures
+- Git & GitHub
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmi565&theme=tokyonight&hide_border=true" />
-  
+
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=angular" />
+<img src="https://skillicons.dev/icons?i=spring" />
+
 </p>
 
 ---
 
-## 🌐 Connect
+# 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://linkedin.com/in/mahalakshmi-l-197620333">
-    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mahalakshmil6505@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/mahalakshmi565">
-    <img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahalakshmi565&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmi565&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mahalakshmi565&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahalakshmi565&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/mahalakshmi-l-197620333">
+<img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mahalakshmil6505@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mahalakshmi565">
+<img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+
 </p>
 
 <p align="center">
-  <i>Code • Learn • Build • Restart • Rebuild • Retry</i>
+
+### 🚀 Learn • Build • Improve • Repeat
+
 </p>
